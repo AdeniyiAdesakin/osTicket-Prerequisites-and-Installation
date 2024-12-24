@@ -73,4 +73,6 @@ Browse to your help desk login page: <i> http://localhost/osTicket/scp/login.php
 <p>20. End Users osTicket URL: <i>http://localhost/osTicket/<i/> </p>
 <p align="center"><img src="https://i.imgur.com/dGWkdFJ.png" height="50%" width="50%" alt="image"/>
 
+<h4>N.B: - Clean up - Delete: C:\inetpub\wwwroot\osTicket\setup. Also set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php</h4>
+
 
